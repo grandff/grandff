@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeong Min Kim</h1>
-<h3 align="center">I am a developer in KEPCO KDN And father of lovely Kim Ah-rin.</h3>
+<h3 align="center">I am a full stack developer And father of lovely Kim Ah-rin and Ah-jun.</h3>
 
 - 🌱 I’m currently learning **Spring Framework, Flutter**
 
